@@ -1,0 +1,6 @@
+{
+  "name": "WeatherForecastee",
+  "description": "AI-powered weather forecasting with cinematic video reports.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
